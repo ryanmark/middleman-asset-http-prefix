@@ -2,4 +2,5 @@
 /Gemfile.lock
 
 # Ignore pkg folder
-/pkg
+/pkg.ruby-version
+*.gem
