@@ -1,0 +1,1 @@
+# middleman-asset-http-prefix
